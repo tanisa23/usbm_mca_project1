@@ -11,6 +11,7 @@ ex:let newArray=[ ];
 /*let newArray=[ ];
 //console.log(newArray);
 console.log(typeof newArray);*/
+
 /*let name="tanisa";
 let age=22;
 let profession="student";
@@ -18,6 +19,7 @@ let isMarried=false;
 reason1- we need everything under a single variable name 
 reason2 -structured Way,code readability,easy to maintane
 */
+
 //array delaration 1-
 /*let userArray=["tanisa",22,"student",true];
 console.log(userArray);
@@ -32,7 +34,7 @@ console.log(userArray);
 //length
 //console.log(numbers.length);//5
 //accessing
-let cities=["bbsr","ctc","kjr","baleswore"];
+//let cities=["bbsr","ctc","kjr","baleswore"];
 //console.log(cities[2]);
 
 //last element
