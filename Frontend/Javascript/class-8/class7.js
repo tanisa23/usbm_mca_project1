@@ -42,6 +42,34 @@ let cities=["bbsr","ctc","kjr","baleswore"];
 //console.log(cities[lastcity-2]);
 
 //modify
-let modifyCity="jjpr";
+/*let modifyCity="jjpr";
 cities[3]=modifyCity;
+console.log(cities);*/
+
+////add element
+
+////push
+
+// console.log(cities)
+
+// let addCity ="jagatsinghpur";
+
+// cities.push(addCity);
+
+// console.log(cities);
+
+// cities.pop();
+
+// console.log(cities);
+
+/*console.log(cities);
+
+cities.shift();
+
 console.log(cities);
+
+console.log(cities);
+
+cities.unshift("baripada");
+
+console.log(cities);*/
